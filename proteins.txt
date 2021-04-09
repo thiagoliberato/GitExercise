@@ -4,4 +4,4 @@ Hemoglobin-alpha Human HBA_HUMAN P69905
 Hemoglobin-beta Human HBB_HUMAN P68871
 Hemoglobin-beta Human HBB_HUMAN P68871s
 Hemoglobin-beta Human HBB_HUMAN P68871
-
+eterteteret
